@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jacobscheek.github.io/my-very-cool-website/sitemap.xml
